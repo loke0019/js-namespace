@@ -11,7 +11,7 @@ var LOKE0019 = {
 
         function click_me(ev) {
             this.style.backgroundColor = "green";
-            this.style.borderColor = "brown";
+            this.style.borderColor = "blue";
         }
 
         function hoverMouse(ev) {
